@@ -1,11 +1,12 @@
 # Projet-ISE2-2025
 Ce projet pédagogique vise à développer un tableau de bord interactif et dynamique pour le suivi des données épidémiologiques de la COVID-19 en utilisant AWS QuickSight. 
 # Structure du projet
-Le projet est organisé dans un dossier principal nommé "Projet Big Data & Cloud Computing" avec les sous-dossiers suivants :
+Le projet est organisé dans un dossier principal nommé **Projet Big Data & Cloud Computing** avec les sous-dossiers suivants :
 **data/** : Contient les jeux de données COVID-19 utilisés pour l'analyse.
 **présentation/** : Inclut la présentation détaillée du projet, de la méthodologie et des résultats obtenus.
 **rapport/** : Contient le rapport final du projet résultant des processus, de la méthodologie et des résultats.
 **images/** : Stocke les captures d'écran et les illustrations du tableau de bord, montrant les différentes étapes de création et les visualisations.
+**tablaeu de bord en format PDf**: Contient un tableau de bord reparti sur deux feuilles dont l'une montre les cas confirmés et décès et l'autre mettant en exergue la tendance des vaccinations
 # Fonctionnalités du Tableau de Bord
 **Visualisations interactives** : Graphiques, cartes géographiques, courbes de tendance, et KPI (indicateurs clés de performance).
 **Filtres dynamiques** : Analyse des données par région, période et d'autres critères.
